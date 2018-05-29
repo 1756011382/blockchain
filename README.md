@@ -11,8 +11,8 @@
 ## 运行方法
 1 python直接运行：
 ```
-python blockchain -p 80
-python blockchain -p 81
+python blockchain.py -p 80
+python blockchain.py -p 81
 ```
 2 docker 运行：
 
